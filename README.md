@@ -1,6 +1,6 @@
 # GoodLuck Trucking
 ## Description
-Very interactive restaurant script where you either get a semi truck or bring your own, pickup a random trailer type (plan on implementing job rep to unlock different trailers), and then drive to various locations and line the trailer up and make a delivery.
+Very interactive script where you either get a semi truck or bring your own, pickup a random trailer type (plan on implementing job rep to unlock different trailers), and then drive to various locations and line the trailer up and make a delivery.
 ## How it Works
 1. Picking up a trialer
     - You get a random type of trailer (gas, misc, beer, chicken)
