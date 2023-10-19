@@ -1,6 +1,5 @@
 Config = {}
-Config.Locale = 'en'
-Config.UseESX = true                                --If your server uses the ESX framework (even if renamed) set this to TRUE
+Config.Locale = 'en'                           --If your server uses the ESX framework (even if renamed) set this to TRUE
 Config.PayPerMeter = {7, 12}                        --Random range to pay per meter. Set both numbers the same to have a fixed rate. This default amount is ~4,000-4,500 per hour
 
 Config.PickupLocations = {                          --Where the player needs to go pickup the trailer
