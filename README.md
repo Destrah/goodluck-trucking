@@ -3,7 +3,7 @@
 Very interactive script where you either get a semi truck or bring your own, pickup a random trailer type (plan on implementing job rep to unlock different trailers), and then drive to various locations and line the trailer up and make a delivery.
 ## How it Works
 1. Picking up a trialer
-    - You get a random type of trailer (gas, misc, beer, chicken)
+    - You get a random type of trailer (gas, misc, beer, chicken, car, etc)
     - Backup to the marked trailer and grab it
 
     <img src="https://i.imgur.com/E1maJlh.jpg" height="300"></img>
